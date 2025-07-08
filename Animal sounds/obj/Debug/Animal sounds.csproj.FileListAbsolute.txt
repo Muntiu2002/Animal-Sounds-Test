@@ -1,0 +1,8 @@
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\Animal sounds\bin\Debug\Animal sounds.exe.config
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\Animal sounds\bin\Debug\Animal sounds.exe
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\Animal sounds\bin\Debug\Animal sounds.pdb
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\Animal sounds\obj\Debug\Animal sounds.csproj.AssemblyReference.cache
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\Animal sounds\obj\Debug\Animal sounds.csproj.CoreCompileInputs.cache
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\Animal sounds\obj\Debug\Animal sounds.exe
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\Animal sounds\obj\Debug\Animal sounds.pdb
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\Animal sounds\obj\Debug\Animal sounds.exe.config

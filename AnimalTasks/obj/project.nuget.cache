@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "X6a80i3or/k=",
+  "success": true,
+  "projectFilePath": "D:\\Proiect\\Medii si platforme de dezvoltare avansate\\Animal Sounds\\AnimalTasks\\AnimalTasks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uie94346\\.nuget\\packages\\microsoft.codecoverage\\17.4.1\\microsoft.codecoverage.17.4.1.nupkg.sha512",
+    "C:\\Users\\uie94346\\.nuget\\packages\\microsoft.net.test.sdk\\17.4.1\\microsoft.net.test.sdk.17.4.1.nupkg.sha512",
+    "C:\\Users\\uie94346\\.nuget\\packages\\xunit\\2.4.1\\xunit.2.4.1.nupkg.sha512",
+    "C:\\Users\\uie94346\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\uie94346\\.nuget\\packages\\xunit.analyzers\\0.10.0\\xunit.analyzers.0.10.0.nupkg.sha512",
+    "C:\\Users\\uie94346\\.nuget\\packages\\xunit.assert\\2.4.1\\xunit.assert.2.4.1.nupkg.sha512",
+    "C:\\Users\\uie94346\\.nuget\\packages\\xunit.core\\2.4.1\\xunit.core.2.4.1.nupkg.sha512",
+    "C:\\Users\\uie94346\\.nuget\\packages\\xunit.extensibility.core\\2.4.1\\xunit.extensibility.core.2.4.1.nupkg.sha512",
+    "C:\\Users\\uie94346\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512",
+    "C:\\Users\\uie94346\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}

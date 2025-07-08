@@ -1,0 +1,98 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Proiect\\Medii si platforme de dezvoltare avansate\\Animal Sounds\\AnimalTasks\\AnimalTasks.csproj": {}
+  },
+  "projects": {
+    "D:\\Proiect\\Medii si platforme de dezvoltare avansate\\Animal Sounds\\Animal sounds\\Animal sounds.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Proiect\\Medii si platforme de dezvoltare avansate\\Animal Sounds\\Animal sounds\\Animal sounds.csproj",
+        "projectName": "Animal sounds",
+        "projectPath": "D:\\Proiect\\Medii si platforme de dezvoltare avansate\\Animal Sounds\\Animal sounds\\Animal sounds.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Proiect\\Medii si platforme de dezvoltare avansate\\Animal Sounds\\AnimalTasks\\AnimalTasks.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proiect\\Medii si platforme de dezvoltare avansate\\Animal Sounds\\AnimalTasks\\AnimalTasks.csproj",
+        "projectName": "AnimalTasks",
+        "projectPath": "D:\\Proiect\\Medii si platforme de dezvoltare avansate\\Animal Sounds\\AnimalTasks\\AnimalTasks.csproj",
+        "packagesPath": "C:\\Users\\uie94346\\.nuget\\packages\\",
+        "outputPath": "D:\\Proiect\\Medii si platforme de dezvoltare avansate\\Animal Sounds\\AnimalTasks\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\uie94346\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Proiect\\Medii si platforme de dezvoltare avansate\\Animal Sounds\\Animal sounds\\Animal sounds.csproj": {
+                "projectPath": "D:\\Proiect\\Medii si platforme de dezvoltare avansate\\Animal Sounds\\Animal sounds\\Animal sounds.csproj"
+              }
+            }
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.4.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

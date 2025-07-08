@@ -1,0 +1,6 @@
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\obj\Debug\net472\AnimalTasks.csproj.AssemblyReference.cache
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\obj\Debug\net472\AnimalTasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\obj\Debug\net472\AnimalTasks.AssemblyInfoInputs.cache
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\obj\Debug\net472\AnimalTasks.AssemblyInfo.cs
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\obj\Debug\net472\AnimalTasks.csproj.CoreCompileInputs.cache
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\obj\Debug\net472\AnimalTasks.sourcelink.json

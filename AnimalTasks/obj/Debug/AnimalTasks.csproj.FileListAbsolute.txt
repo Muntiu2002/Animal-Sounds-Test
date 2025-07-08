@@ -1,0 +1,29 @@
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\obj\Debug\AnimalTasks.csproj.AssemblyReference.cache
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\obj\Debug\AnimalTasks.csproj.CoreCompileInputs.cache
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\bin\Debug\AnimalTasks.dll
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\bin\Debug\AnimalTasks.pdb
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\bin\Debug\Animal sounds.exe
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\bin\Debug\xunit.abstractions.dll
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\bin\Debug\xunit.core.dll
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\bin\Debug\Animal sounds.pdb
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\bin\Debug\Animal sounds.exe.config
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\bin\Debug\xunit.core.xml
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\obj\Debug\AnimalTa.00621153.Up2Date
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\obj\Debug\AnimalTasks.dll
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\obj\Debug\AnimalTasks.pdb
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\bin\Debug\xunit.assert.dll
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\bin\Debug\xunit.execution.desktop.dll
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\bin\Debug\xunit.assert.xml
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\bin\Debug\xunit.execution.desktop.xml
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\bin\Debug\xunit.runner.reporters.net452.dll
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\bin\Debug\xunit.runner.utility.net452.dll
+D:\Proiect\Medii si platforme de dezvoltare avansate\Animal Sounds\AnimalTasks\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
