@@ -7,17 +7,7 @@ namespace Animal_sounds
     {
         static void Main(string[] args)
         {
-            List<IAnimal> animals = new List<IAnimal>
-            {
-                new Dog(),
-                new Cat(),
-                new Cow(),
-                new Horse(),
-                new Chicken(),
-                new Elephant(),
-                new Snake(),
-                new Sheep()
-            };
+            List<IAnimal> animals = AnimalFactory.CreateAllAnimals();
 
             while (true)
             {
